@@ -11,19 +11,19 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>https://emobilefile.weaver.com.cn/customer/7.0/E-Mobile720230428012.ipa</string>
+                   <string>http://1http://10.58.10.167/长银58OA.ipa</string>
                </dict>
            </array>
            <key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.tanhas.emobile7</string>
+               <string>com.hncy58.emobile7</string>
                <key>bundle-version</key>
-               <string>7.0.8.96</string>
+               <string>7.0.76</string>
                <key>kind</key>
                <string>software</string>
                <key>title</key>
-               <string>E-Mobile720230428012</string>
+               <string>长银58OA</string>
            </dict>
        </dict>
    </array>
